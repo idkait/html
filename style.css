@@ -1,0 +1,90 @@
+img {
+	width:200px;
+	border:2px solid grey;
+	display: block;
+	margin-left:auto;
+	margin-right:auto; 
+	width:20%;
+
+}
+  
+   
+body {
+	background-image: url('wall-paper.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: 100% 100%;
+	font-family:Bookman;
+	font-size:20px;
+}
+
+ 
+	
+
+.red {  
+	color:red;
+	font-size:24px;
+}
+
+
+	
+.bigfont {
+	font-size: 32px;
+}
+
+.smallfont {
+	font-size: 24px;
+}
+
+
+style="background-image: url('https://pixabay.com/photos/clouds-sky-bright-daylight-light-1282314/')"
+
+#specialstyle {
+	
+	border:2px solid red;
+	background-color: yellow;
+	 
+}
+
+
+
+.centerText {
+  text-align: center; 
+}
+
+img#image {
+    float: right; 
+}
+
+img#imageleft {
+    float: left; 
+}
+img#imagewidth {
+    width:20%;
+}
+div {
+  height: 100px;
+ 
+}
+img#imagewidth2{
+	width:15%;
+}
+
+ .column {
+  float: left;
+ }
+ 
+ .centerimage{
+	 image-align:center;
+ }
+ 
+ {
+ background-image: url("milky-way.jpg");
+}
+
+img#imagewidth3{
+	width:10%;
+}
+
+img#imageheight{
+	height:24px
